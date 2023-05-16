@@ -1,0 +1,6 @@
+indir: "/SMB_HES_PRD/Load-profile"
+outdir: "/root/230516"
+lineLimit: 1000
+extension:
+  - txt
+  - temp
