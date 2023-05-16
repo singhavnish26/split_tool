@@ -24,7 +24,7 @@ This repository provides a file splitting program that is designed to split larg
 3. Update the `testsplitmd.yaml` configuration file with the desired input and output directories, line limit, and file extensions.
 4. Run the program using the following command:
 
-`python file_splitter.py`
+`python splitmd.py`
 
 5. The program will start monitoring the input directory for new files. Once a new file is detected, it will be split into smaller files based on the specified criteria and saved in the output directory.
 6. You can customize the program by modifying the configuration file and adjusting the splitting criteria as per your requirements.
