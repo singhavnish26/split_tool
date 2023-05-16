@@ -1,4 +1,0 @@
-Tool to monitor a directory
-if new file comes in 
-capture the file
-
